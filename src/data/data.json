@@ -1,0 +1,169 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "Alt Corp. Traffic - це компанія, яка довгий час працює на ринку та забезпечує своїм клієнтам лише найкращий сервіс.",
+    "Why": ["Досвід на ринку.", "Висока якість послуг.", "Глобальне охоплення.", "Цільова аудиторія."],
+    "Why2": [
+      "Ефективні стратегії.",
+      "Інноваційні рішення.",
+      "Гнучкість у роботі.",
+      "Відмінний сервіс і підтримка клієнтів."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-brands fa-bitcoin",
+      "name": "Криптовалюти",
+      "text": "Alt Corp. забезпечує ефективне зростання конверсії для криптовалютних проектів, пропонуючи цільовий трафік, що фільтрує незацікавлених користувачів."
+    },
+    {
+      "icon": "fa fa-solid fa-rss",
+      "name": "Новини",
+      "text": "В Alt Corp. Traffic ми спеціалізуємося на аналізі трендів та ринку через новини, адаптуючи стратегії під конкретні потреби вашої компанії. Це дозволяє нам гнучко реагувати на зміни в індустрії та випереджати конкурентів, пропонуючи вам найактуальніші та ефективні рекламні рішення."
+    },
+    {
+      "icon": "fa fa-solid fa-shopping-cart",
+      "name": "Магазини",
+      "text": "Alt Corp. Traffic розробляє індивідуальну стратегію та інструментарій для кожного магазину, забезпечуючи оптимальне просування та результати."
+    },
+    {
+      "icon": "fa fa-solid fa-trash",
+      "name": "Треш",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-brands fa-youtube",
+      "title": "Youtube",
+      "text": "Наш трафік з YouTube відрізняється високою конверсією, включаючи зарубіжний трафік, що забезпечує глобальне охоплення."
+    },
+    {
+      "icon": "fa fa-brands fa-instagram",
+      "title": "Instagram",
+      "text": "Наші реклами в Instagram з'являються цілеспрямовано, гарантуючи, що вони досягають саме тієї аудиторії, яка найбільше зацікавлена у вашому продукті чи послузі."
+    },
+    {
+      "icon": "fa fa-brands fa-facebook",
+      "title": "Facebook",
+      "text": "Наш досвід роботи з Facebook дозволяє нам ефективно націлювати промо-кампанії на цільові групи, забезпечуючи точне досягнення потрібної аудиторії."
+    },
+    {
+      "icon": "fa fa-solid fa-globe",
+      "title": "WorldWide",
+      "text": "Ми використовуємо всі можливі соціальні мережі в усіх країнах світу, щоб забезпечити нашим клієнтам найкраще охоплення та ефективність рекламних кампаній."
+    }
+  ]
+}
